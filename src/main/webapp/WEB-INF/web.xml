@@ -8,7 +8,7 @@
   <!-- LoginServlet Configuration -->
     <servlet>
         <servlet-name>LoginServlet</servlet-name>
-        <servlet-class>com.firstServlet.LoginServlet</servlet-class>
+        <servlet-class>com.loginServlet.LoginServlet</servlet-class>
         <init-param>
             <param-name>user</param-name>
             <param-value>Amit</param-value>
